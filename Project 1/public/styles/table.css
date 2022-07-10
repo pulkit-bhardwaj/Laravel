@@ -1,0 +1,14 @@
+			th {
+  			color: #fff;	/*	Header text color set to white */
+  			background-color: #369; /*	Header background color set to black */ 
+    	}
+    	th, td {	
+				padding: 5px;	/*	Padding is set to 5px  */
+				border: 1px solid #999;	/* Cell border set to grey */
+    	}
+    	table { 
+  			width: 100%;	/*	Table width given */
+  			border-collapse: collapse;	/*	Table set to collapse */
+				border-spacing: 0px; /*	spacing set to 0px */
+				margin: 10px;
+			}

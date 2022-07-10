@@ -1,0 +1,18 @@
+form fieldset{ /*form fielsdet added*/
+			padding: 20px;
+			border: 1px solid #000;
+			width: 60%;
+			margin: 10px;
+		}
+		form legend{ /*legend added*/
+			color: #000;
+			padding: 5px 7px 5px 7px;
+		}
+		form label{
+			display: block;
+			width: 125px;
+			clear: both;
+			float: left;
+			text-align: right;
+			padding-right: 1em;
+		}
