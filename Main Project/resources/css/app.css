@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+#main_img {
+    margin-left: 35%;
+    margin-top: 50px;
+}
+#main_btn {
+    margin-left: 45%;
+    margin-top: 50px;
+    margin-bottom: 250px;
+}

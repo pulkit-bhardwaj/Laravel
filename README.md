@@ -16,3 +16,10 @@
 ### Sample Website
 
 * Bootstrap used
+
+## Main Project
+
+### One Piece Characters
+
+* Shows all 'one Piece' Characters
+* Can add new 'one piece' character from back-end "Admin Panel".
