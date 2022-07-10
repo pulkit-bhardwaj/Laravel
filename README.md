@@ -10,3 +10,9 @@
 * Editorial
 * Blog
 * Contact
+
+## Project 2
+
+### Sample Website
+
+* Bootstrap used
